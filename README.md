@@ -1,2 +1,4 @@
 # SB-Admin-panel-with-captcha
-Simple custom SB Admin panel with Captcha 
+No Frameworks used,just clone the repo<br>
+Configure and enjoy</br>
+Happy coding !!!
