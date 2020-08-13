@@ -1,4 +1,5 @@
-# SB-Admin-panel-with-captcha
-No Frameworks used,just clone the repo<br>
+# SB-Admin-panel-with-captcha php powered 
+No Frameworks used,Just php</br>
+Clone the repo<br>
 Configure and enjoy</br>
 Happy coding !!!
