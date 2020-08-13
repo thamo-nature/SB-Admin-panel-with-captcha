@@ -19,7 +19,7 @@ class Database{
 
     public function open_db_connection(){
          
-           $this->connection = new mysqli("localhost", "root", "", "cosnumero");
+           $this->connection = new mysqli("localhost", "root", "", "your_db");
 
            if($this->connection->connect_errno){
 
